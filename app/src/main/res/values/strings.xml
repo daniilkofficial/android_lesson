@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MoneyTracker</string>
+    <string name="next_text"><![CDATA[NextText >]]></string>
 </resources>
