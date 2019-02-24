@@ -13,3 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+// ctr + shift + A - search option
+// ctr + shift + N - search file
+// ctr + N - search class
+// alt + v - add VCS Popup Menu
