@@ -17,6 +17,6 @@
         android:layout_alignParentRight="true"
         android:textSize="24sp"
         android:textColor="#000"
-        android:text="NextText >" />
+        android:text="@string/next_text" />
 
 </RelativeLayout>
